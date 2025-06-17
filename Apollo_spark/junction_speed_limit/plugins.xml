@@ -1,0 +1,3 @@
+<library path="modules/planning/tasks/junction_speed_limit/libjunction_speed_limit.so">
+    <class type="apollo::planning::JunctionSpeedLimit" base_class="apollo::planning::Task"></class>
+</library>
